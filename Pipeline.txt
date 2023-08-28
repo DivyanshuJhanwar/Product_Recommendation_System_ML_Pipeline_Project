@@ -1,0 +1,11 @@
+# Data Ingestion:- In this step we have to extract the data from the clients Database or Clients gitHub profile or 
+Clients cloud platform in our local system so that we can build a complete pipeline 
+
+1. config file :- Here we can define our complete dataset
+2. config entity :- Here we can define all the Variable related to config.yaml file
+3. configuration file :- Here we are going to join the complete path
+4. constant :- Here we can define constant variable for the complete pipeline
+5. Data Ingestion
+6. utils :- Here we can create helper function
+7. pipeline configuration : To run the complete pipeline
+8. main file :- Write a code to test the complete pipeline 
