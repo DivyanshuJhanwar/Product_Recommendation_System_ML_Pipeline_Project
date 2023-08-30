@@ -4,7 +4,7 @@ from Product_Recommendation_System.config.configuration import AppConfiguration
 from Product_Recommendation_System.components.data_ingestion import DataIngestion
 import os
 from Product_Recommendation_System.pipeline.pipeline import TrainingPipeline
-
+from Product_Recommendation_System.components.data_validation import DataValidation
 
 def main():
     try:

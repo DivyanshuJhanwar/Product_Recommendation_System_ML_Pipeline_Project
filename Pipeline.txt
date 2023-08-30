@@ -8,4 +8,28 @@ Clients cloud platform in our local system so that we can build a complete pipel
 5. Data Ingestion
 6. utils :- Here we can create helper function
 7. pipeline configuration : To run the complete pipeline
-8. main file :- Write a code to test the complete pipeline 
+8. main.py file :- Write a code to test the complete pipeline 
+
+
+
+# Data Validation:-
+
+1. config
+2. config_entity
+3. configuration
+4. data_validation
+5. utils
+6. pipeline_configuration
+7. main.py file 
+
+## After performing data_validation, we got clean_data.
+
+
+
+# Data Transformation:-
+
+1. config
+2. config_entity
+3. configuration
+4. data_transformation file under components folder
+5. Utils file for helper function
